@@ -10,7 +10,7 @@ namespace HMIControl.HMIEx
     {
         public static readonly DependencyProperty TagReadTextProperty = DependencyProperty.Register("TagReadText", typeof(string), typeof(HMITextBox));
         public static readonly DependencyProperty TagWriteTextProperty = DependencyProperty.Register("TagWriteText", typeof(string), typeof(HMITextBox));
-
+        public static readonly DependencyProperty IsPulseProperty = DependencyProperty.Register("IsPulse", typeof(bool), typeof(HMITextBox));
         /// <summary>
         ///Tag Property
         /// </summary>
@@ -57,22 +57,7 @@ namespace HMIControl.HMIEx
             }
         }
 
-        protected Func<object, int> _funcWrite;
-
-        protected override void OnKeyDown(KeyEventArgs e)
-        {
-            base.OnKeyDown(e);
-            this.Focus();
-            if (e.Key == Key.Return)
-            {
-                if (_funcWrite != null)
-                {
-                    _funcWrite(this.Text.Trim());
-                }
-            }
-        }
-
-
+        
         public string[] GetActions()
         {
             return new string[] { TagActions.TEXT };
@@ -111,18 +96,52 @@ namespace HMIControl.HMIEx
         {
             get
             {
-                throw new NotImplementedException();
+                return (bool)base.GetValue(IsPulseProperty);
             }
             set
             {
-                throw new NotImplementedException();
+                base.SetValue(IsPulseProperty, value);
             }
         }
-
-        public bool SetTagWriter(Delegate tagWriter)
+        protected List<Func<object, int>> _funcWrites = new List<Func<object, int>>();
+        public bool SetTagWriter(IEnumerable<Delegate> tagWriter)
         {
-            _funcWrite = tagWriter as Func<object, int>;
-            return _funcWrite != null;
+            bool ret = true;
+            _funcWrites.Clear();
+
+            foreach (var item in tagWriter)
+            {
+                Func<object, int> _funcWrite = item as Func<object, int>;
+
+                if (_funcWrite != null)
+                    _funcWrites.Add(_funcWrite);
+                else
+                {
+                    ret = false;
+                    break;
+                }
+            }
+            return ret;
         }
+         protected override void OnKeyDown(KeyEventArgs e)
+        {
+            if (e.Key == Key.Return && _funcWrites.Count>0 && !string.IsNullOrEmpty(Text))
+            {
+                foreach (var func in _funcWrites)
+                {
+                    func(Text);
+                }
+            }
+            base.OnKeyDown(e);
+        }
+        // public bool SetTagWriter
+        /*    public bool SetTagWriter(IEnumerable<Delegate> tagWriter)
+          {
+
+              _funcWrite = tagWriter as Func<object, int>;
+              return _funcWrite != null;
+          }
+
+       */
     }
 }

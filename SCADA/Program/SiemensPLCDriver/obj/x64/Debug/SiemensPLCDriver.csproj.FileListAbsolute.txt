@@ -1,0 +1,10 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\bin\x64\Debug\SiemensPLCDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\bin\x64\Debug\SiemensPLCDriver.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\bin\x64\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\bin\x64\Debug\libnodave.net.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\bin\x64\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\obj\x64\Debug\SiemensPLCDriver.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\obj\x64\Debug\SiemensPLCDriver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\obj\x64\Debug\SiemensPLCDriver.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\obj\x64\Debug\SiemensPLCDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\SiemensPLCDriver\obj\x64\Debug\SiemensPLCDriver.pdb

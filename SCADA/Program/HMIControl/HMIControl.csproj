@@ -88,6 +88,7 @@
     <Compile Include="HMIBase\HMIConvert.cs" />
     <Compile Include="HMIEx\Frame.cs" />
     <Compile Include="HMIEx\HMILable.cs" />
+    <Compile Include="HMIEx\HMITextBox.cs" />
     <Compile Include="HMIEx\ZoomBoxPanel.cs" />
     <Compile Include="HMIEx\ZoomSlideControl.cs" />
     <Compile Include="LiquidAdd.cs" />

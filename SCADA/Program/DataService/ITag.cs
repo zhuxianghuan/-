@@ -218,6 +218,7 @@ namespace DataService
         protected override int InnerWrite(Storage value)
         {
             return _group.WriteBit(_plcAddress, value.Boolean);
+            Console.WriteLine("");
         }
 
         #endregion

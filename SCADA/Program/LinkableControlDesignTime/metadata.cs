@@ -1,7 +1,7 @@
 ﻿using Microsoft.Windows.Design.Features;
 using Microsoft.Windows.Design.Metadata;
 using HMIControl;
-
+using HMIControl.HMIEx;
 
 [assembly: ProvideMetadata(typeof(HMIControl.VisualStudio.Design.Metadata))]
 namespace HMIControl.VisualStudio.Design
@@ -37,6 +37,11 @@ namespace HMIControl.VisualStudio.Design
                   new FeatureAttribute(typeof(TagWindowContextMenuProvider)),
                   new FeatureAttribute(typeof(TagComplexContextMenuProvider)),
                   new FeatureAttribute(typeof(TagWriterContextMenuProvider)));
+                builder.AddCustomAttributes(
+                 typeof(HMITextBox),
+               //  new FeatureAttribute(typeof(TagWindowContextMenuProvider)),
+             //    new FeatureAttribute(typeof(TagComplexContextMenuProvider)),
+                 new FeatureAttribute(typeof(TagWriterContextMenuProvider)));
                 builder.AddCustomAttributes(
                   typeof(FromTo),
                   new FeatureAttribute(typeof(TagWindowContextMenuProvider)));

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\bin\Debug\DataHelper.dll.config
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\bin\Debug\DataHelper.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\bin\Debug\DataHelper.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\bin\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\bin\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\obj\Debug\DataHelper.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\obj\Debug\DataHelper.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\obj\Debug\DataHelper.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\obj\Debug\DataHelper.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\obj\Debug\DataHelper.pdb

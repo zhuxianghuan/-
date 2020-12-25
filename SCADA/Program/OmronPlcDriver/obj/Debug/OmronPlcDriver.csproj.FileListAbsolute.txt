@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\bin\Debug\OmronPlcDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\bin\Debug\OmronPlcDriver.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\bin\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\bin\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OmronPlcDriver\obj\Debug\OmronPlcDriver.pdb

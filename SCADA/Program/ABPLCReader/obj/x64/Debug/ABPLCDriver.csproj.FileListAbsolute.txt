@@ -1,0 +1,1 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\obj\x64\Debug\ABPLCDriver.csproj.CoreCompileInputs.cache

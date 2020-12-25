@@ -1,0 +1,16 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\bin\Debug\HMIControl.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\bin\Debug\HMIControl.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl_MarkupCompile.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl_MarkupCompile.lref
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\Themes\Generic.baml
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.g.resources
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\HMIControl\obj\Debug\HMIControl.pdb

@@ -1,0 +1,2 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\obj\x64\Debug\DataHelper.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataHelper\obj\x64\Debug\DataHelper.csproj.CoreCompileInputs.cache

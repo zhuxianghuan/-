@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\bin\Debug\FileDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\bin\Debug\FileDriver.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\bin\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\bin\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\obj\Debug\FileDriver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\obj\Debug\FileDriver.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\obj\Debug\FileDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\FileDriver\obj\Debug\FileDriver.pdb

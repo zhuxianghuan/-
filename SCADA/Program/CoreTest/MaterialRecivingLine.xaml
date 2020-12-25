@@ -58,7 +58,7 @@
         <my:LinkLine OriginInfo="{Binding Path=LeftPin, ElementName=divert1}" Panel.ZIndex="57" TargetInfo="{Binding Path=TopPin, ElementName=bufferBin2}" TagReadText="运行:Receiving1_ThreeWays2_Left\" />
         <my:LinkLine OriginInfo="{Binding Path=RightPin, ElementName=divert1}" Panel.ZIndex="58" TargetInfo="{Binding Path=TopPin, ElementName=bufferBin3}" TagReadText="运行:Receiving1_ThreeWays2_Right\" />
         <my:LinkLine OriginInfo="{Binding Path=BottomPin, ElementName=fromTo7}" Panel.ZIndex="59" TargetInfo="{Binding Path=TopPin, ElementName=divert1}" TagReadText="运行:Receiving1_Gate16_Ols\" />
-        <my:SelectSwitch Canvas.Left="1626" Canvas.Top="895" Caption="控制模式" Height="85" IsThreeState="False" LeftLable="电脑" Name="selectSwitch1" RightLable="触屏" ShowCaption="True" TagReadText="左:~Receiving1_LocalRemote\右:Receiving1_LocalRemote\" TagWriteText="Receiving1_LocalRemote:~Receiving1_LocalRemote\" Width="70" />
+        <my:SelectSwitch Canvas.Left="1603" Canvas.Top="895" Caption="控制模式" Height="85" IsThreeState="False" LeftLable="电脑" Name="selectSwitch1" RightLable="触屏" ShowCaption="True" TagReadText="左:~Receiving1_LocalRemote\右:Receiving1_LocalRemote\" TagWriteText="Receiving1_LocalRemote:~Receiving1_LocalRemote\" Width="70" />
         <my:SelectSwitch Canvas.Left="1734" Canvas.Top="895" Caption="清  警" Height="85" IsPulse="True" IsThreeState="False" LeftLable=" F" Name="selectSwitch3" RightLable="T " ShowCaption="True" TagReadText="左:Receiving1_AlmAck\右:~Receiving1_AlmAck\" TagWriteText="Receiving1_AlmAck:\Sys_Alarm:\"  Width="70" />
         <my:FromTo Canvas.Left="254" Canvas.Top="25" Height="22" Name="fromTo8" Width="28" />
         <my:FromTo Canvas.Left="924" Canvas.Top="264" Height="22" Name="fromTo9" Width="28" />
@@ -150,5 +150,6 @@
         <TextBlock Canvas.Left="904" Canvas.Top="224" FontSize="15" FontStyle="Normal" FontWeight="Normal" Foreground="#FF271C1C" Height="27" Name="textBlock28" Text="106" Width="48" />
         <TextBlock Canvas.Left="1320" Canvas.Top="649" FontSize="15" FontStyle="Normal" FontWeight="Normal" Foreground="#FF271C1C" Height="27" Name="textBlock29" Text="110A" Width="48" />
         <TextBlock Canvas.Left="1165" Canvas.Top="649" FontSize="15" FontStyle="Normal" FontWeight="Normal" Foreground="#FF271C1C" Height="27" Name="textBlock30" Text="110B" Width="48" />
+        <my:SelectSwitch Canvas.Left="1477" Canvas.Top="977" Caption="控制模式" Height="85" IsThreeState="False" LeftLable="电脑" x:Name="selectSwitch1_Copy" RightLable="触屏" ShowCaption="True" TagReadText="左:~START\右:START\" TagWriteText="START:~START\:\" Width="70" />
     </Canvas>
 </UserControl>

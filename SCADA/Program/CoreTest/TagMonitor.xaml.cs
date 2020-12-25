@@ -132,17 +132,39 @@ namespace CoreTest
             TimeStamp = _tag.TimeStamp;
         }
 
+        /* 
+           public int Write(string value)
+         {
+             if (string.IsNullOrEmpty(value)) return -1;
+             if (_tag.Address.VarType == DataType.BOOL)
+             {
+                 if (value == "1") value = "true";
+                 if (value == "0") value = "false";
+             }
+             return _tag.Write(value);
+         }
+        */
         public int Write(string value)
         {
-            if (string.IsNullOrEmpty(value)) return -1;
-            if (_tag.Address.VarType == DataType.BOOL)
+            if (string.IsNullOrEmpty(value)) return 100 ;
+            Storage stor = Storage.Empty;
+            try
             {
-                if (value == "1") value = "true";
-                if (value == "0") value = "false";
+                if (_tag.Address.VarType == DataType.STR)
+                {
+                    ((StringTag)_tag).String = value;
+                }
+                else
+                {
+                    stor = _tag.ToStorage(value);
+                }
+                _tag.Update(stor, DateTime.Now, QUALITIES.QUALITY_GOOD);
+               
             }
+            
+            catch { }
             return _tag.Write(value);
         }
-
         public void SimWrite(string value)
         {
             if (string.IsNullOrEmpty(value)) return;

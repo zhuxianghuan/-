@@ -1,0 +1,6 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataService\bin\x64\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataService\bin\x64\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataService\obj\x64\Debug\DataService.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataService\obj\x64\Debug\DataService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataService\obj\x64\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\DataService\obj\x64\Debug\DataService.pdb

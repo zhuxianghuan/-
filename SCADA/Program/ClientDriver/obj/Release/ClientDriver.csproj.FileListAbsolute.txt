@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\bin\Release\ClientDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\bin\Release\ClientDriver.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\bin\Release\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\bin\Release\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\obj\Release\ClientDriver.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\obj\Release\ClientDriver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\obj\Release\ClientDriver.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\obj\Release\ClientDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ClientDriver\obj\Release\ClientDriver.pdb

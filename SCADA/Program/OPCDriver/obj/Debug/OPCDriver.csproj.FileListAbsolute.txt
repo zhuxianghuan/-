@@ -1,0 +1,11 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\bin\Debug\OPCDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\bin\Debug\OPCDriver.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\bin\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\bin\Debug\OPCLib.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\bin\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\bin\Debug\OPCLib.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCDriver\obj\Debug\OPCDriver.pdb

@@ -1,0 +1,1 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ModbusDriver\obj\x64\Debug\ModbusDriver.csproj.CoreCompileInputs.cache

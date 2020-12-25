@@ -130,6 +130,7 @@ namespace CoreTest
                         MessageBox.Show(string.Format("设备{0}变量{1}写入PLC公式转换失败", taglink.Node, item.Key) + "\n" + e.Message);
                     }
                     writer.SetTagWriter(delgts);
+                 
                 }
             }
         }

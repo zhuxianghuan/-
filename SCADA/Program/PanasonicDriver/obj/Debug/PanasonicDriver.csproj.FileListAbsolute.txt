@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\bin\Debug\PanasonicDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\bin\Debug\PanasonicDriver.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\bin\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\bin\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\PanasonicDriver\obj\Debug\PanasonicDriver.pdb

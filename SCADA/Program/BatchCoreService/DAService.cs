@@ -30,7 +30,7 @@ namespace BatchCoreService
         const string SERVICELOGNAME = "DataProcess";
         const string PATH = @"C:\DataConfig\";
         const string FILENAME = "server.xml";
-
+        
 
         //可配置参数，从XML文件读取
         int DELAY = 3000;
@@ -62,7 +62,10 @@ namespace BatchCoreService
                 int index = GetItemProperties(id);
                 if (index >= 0)
                 {
-                    return this[_list[index].Name];
+                    
+                        return this[_list[index].Name];
+
+
                 }
                 return null;
             }

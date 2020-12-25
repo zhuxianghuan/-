@@ -1,0 +1,8 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\bin\Debug\ABPLCReader.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\bin\Debug\ABPLCReader.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\bin\Debug\DataService.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\bin\Debug\DataService.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\obj\Debug\ABPLCDriver.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\obj\Debug\ABPLCDriver.csproj.CopyComplete
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\obj\Debug\ABPLCReader.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\ABPLCReader\obj\Debug\ABPLCReader.pdb

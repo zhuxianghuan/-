@@ -1,0 +1,6 @@
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCLib\bin\x64\Debug\OPCLib.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCLib\bin\x64\Debug\OPCLib.pdb
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCLib\obj\x64\Debug\OPCLib.csprojAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCLib\obj\x64\Debug\OPCLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCLib\obj\x64\Debug\OPCLib.dll
+C:\Users\Administrator\Source\Repos\-\SCADA\Program\OPCLib\obj\x64\Debug\OPCLib.pdb
