@@ -10,6 +10,7 @@
     <Canvas x:Name="cvs1" Margin="-43.2,-10,43.2,10">
         <my:HMIButton x:Name="hMIButton" Content="HMIButton" Height="43" Canvas.Left="1041" Canvas.Top="239" Width="129" TagWriteText="START:1-START\:\" />
         <HMIEx:HMITextBox x:Name="hMITextBox" Height="46" Canvas.Left="868" TextWrapping="Wrap" Text="1234" Canvas.Top="329" Width="154" TagReadText="文本:M1_SPEED\" TagWriteText="M1_SPEED:\:\" />
+        <my:HMIButton x:Name="hMIButton_Copy" Content="HMIButton" Height="43" Canvas.Left="1041" Canvas.Top="446" Width="129" TagWriteText="AAADDA:~AAADDA\:\" />
 
     </Canvas>
 </UserControl>
